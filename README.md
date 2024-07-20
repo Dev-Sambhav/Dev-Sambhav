@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-sambhav" alt="dev-sambhav" /></a> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently working on **TCS**
 
 - 📫 How to reach me **devsambhav50@gmail.com**
-
-- ⚡ Fun fact **make videos on youtube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
